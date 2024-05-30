@@ -4,6 +4,12 @@ Rede Yolo para detectar objetos, utilizando Utralyticts Yolo 8.2
 
 cd detector
 
-''c python -m venv venv''
+c python -m venv venv
+
+venv\Scripts\activate
+
+2 - Em seguida instalar a biblioteca da ultralytics
+
+pip install ultralytics
 
 
