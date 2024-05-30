@@ -12,3 +12,27 @@ Abra o terminal e navegue até o diretório do seu projeto:
 
 ```bash
 cd detector
+```
+Em seguida, crie um ambiente virtual:
+
+```bash
+python -m venv venv
+```
+
+Ative o ambiente virtual:
+
+No Windows:  
+
+```bash
+venv\Scripts\activate
+```
+No macOS e Linux:
+```bash
+source venv/bin/activate
+```
+
+###Passo 2: Instalar a Biblioteca Ultralytics
+Com o ambiente virtual ativado, instale a biblioteca Ultralytics:
+```bash
+pip install ultralytics
+```
