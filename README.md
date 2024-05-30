@@ -1,15 +1,14 @@
-Rede Yolo para detectar objetos, utilizando Utralyticts Yolo 8.2
+# Rede Yolo para Detectar Objetos
 
-1 - Criar um ambiente virtual no terminal
+Utilizando Ultralytics YOLO 8.2
 
+## Instruções para Configuração do Ambiente
+
+Siga os passos abaixo para configurar o ambiente e instalar as dependências necessárias para rodar a rede Yolo.
+
+### Passo 1: Criar um Ambiente Virtual
+
+Abra o terminal e navegue até o diretório do seu projeto:
+
+```bash
 cd detector
-
-c python -m venv venv
-
-venv\Scripts\activate
-
-2 - Em seguida instalar a biblioteca da ultralytics
-
-pip install ultralytics
-
-
