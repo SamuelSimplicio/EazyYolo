@@ -4,6 +4,6 @@ Rede Yolo para detectar objetos, utilizando Utralyticts Yolo 8.2
 
 cd detector
 
-'python -m venv venv'
+''c python -m venv venv''
 
 
