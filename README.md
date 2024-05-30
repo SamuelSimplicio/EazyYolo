@@ -31,7 +31,7 @@ No macOS e Linux:
 source venv/bin/activate
 ```
 
-###Passo 2: Instalar a Biblioteca Ultralytics
+### Passo 2: Instalar a Biblioteca Ultralytics
 Com o ambiente virtual ativado, instale a biblioteca Ultralytics:
 ```bash
 pip install ultralytics
